@@ -183,7 +183,7 @@
     "web3": "^4.0.3",
     "winston": "^3.3.3",
     "yaml-schema-validator": "^1.2.2",
-    "z85": "^0.0.3"
+    "z85": "^0.0.2"
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^1.12.0",
